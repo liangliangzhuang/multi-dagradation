@@ -16,7 +16,7 @@
 
 - **Liangliang Zhuang**, Ancha Xu*, Guanqi Fang, and Yincai Tang. [Multivariate reparameterized inverse Gaussian processes with common effects for degradation-based reliability prediction](https://www.tandfonline.com/doi/full/10.1080/00224065.2024.2402850?src=), Journal of Quality Technology, (2024). [[code\]](https://github.com/liangliangzhuang/multi-rIG)
 
-- [Fang G, Pan R, Wang Y. Inverse Gaussian processes with correlated random effects for multivariate degradation modeling](https://www.sciencedirect.com/science/article/abs/pii/S0377221721008985). European Journal of Operational Research, 2022, 300(3): 1177-1193.
+- Fang G, Pan R, Wang Y. [Inverse Gaussian processes with correlated random effects for multivariate degradation modeling](https://www.sciencedirect.com/science/article/abs/pii/S0377221721008985). European Journal of Operational Research, 2022, 300(3): 1177-1193.
 
 
 Student-t过程:
